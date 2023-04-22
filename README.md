@@ -1,2 +1,2 @@
 # MVC-using-JSP
-JAVA+JSP
+JAVA(Servlet)+JSP+HTML+XML
